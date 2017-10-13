@@ -1,0 +1,28 @@
+nav { border-bottom: 6px solid navy;
+    background-color: powderblue; }
+
+
+h1 {text-align: center;    }
+
+h1 { font-size: 400%;
+     font-weight: bold;
+     color: powderblue }
+
+
+h2 {text-align: center;    }
+
+h2 { font-size: 250%;
+     font-weight: bold;
+     color: powderblue }
+
+p {text-align: center;    }
+
+p { border-bottom: 6px solid navy;
+    background-color: powderblue; }
+
+body {background: navy }
+
+
+nav li { background-color: powderblue; }
+    
+nav li {background-color: powderblue; }

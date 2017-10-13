@@ -1,0 +1,11 @@
+h1 {text-align: center;    }
+h1 { font-size: 400%;
+     font-weight: bold;
+     color: gold }
+     body {background: navy }
+     p {text-align: center;    }
+     p { font-size: 200%;
+     font-weight: bold;
+     color: Navy }
+     p { border-bottom: 6px solid powderblue;
+    background-color: gold; }
